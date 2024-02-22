@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sachin-akasa
+- 👋 Hi, I’m Sachin U Krishna
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Jest, React TS, Spring Boot
+- 🌱 I’m currently learning Next JS, Tailwind, Redux Saga
 - 💞️ I’m looking to collaborate on Full Stack Applications
 - 📫 How to reach me sachin.krishna@akasaair.com
